@@ -85,5 +85,5 @@ project-root/
 This project is released for educational and academic use.  
 You are free to reuse, modify, and extend this code for personal or non-commercial use.
 
-© 2025 Mandalorian ML Labs  
+© 2025 Ron Haba  
 All rights reserved.
